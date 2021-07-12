@@ -10,6 +10,7 @@ public class Test {
     for (int i = 0; i < 10; i++) {
       //
       System.out.println("commit: "+i);
+      System.out.println("commit2: "+i);
     }
   }
 }
