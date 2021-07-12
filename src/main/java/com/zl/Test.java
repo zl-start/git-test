@@ -14,6 +14,7 @@ public class Test {
       System.out.println("commit3: "+i);
       System.out.println("commit4: "+i);
       System.out.println("master test: "+i);
+      System.out.println("hot-fix 1: "+i);
     }
   }
 }
