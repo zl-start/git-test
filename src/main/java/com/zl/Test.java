@@ -17,6 +17,7 @@ public class Test {
       System.out.println("hot-fix 1: "+i);
       System.out.println("push test: "+i);
       System.out.println("pull test: "+i);
+      System.out.println("push test: "+i);
     }
   }
 }
